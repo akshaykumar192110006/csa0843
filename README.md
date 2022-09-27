@@ -6,6 +6,6 @@
 6)Greatest among three
 7)Isomorphic
 8)Profit Share
-9)vowels
-10)Simple Intrest
+9)Simple Intrest
+10)vowels
 11)water
