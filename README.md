@@ -1,9 +1,11 @@
-1)Bakery bread
-2)Celsius to Farhenheit
-3)Climb Staircase
-4)Find Factorial
-5)Greatest among three
-6)Isomorphic
-7)Profit Share
-8)Simple Intrest
-9)Water
+1)Binary
+2)Bakery bread
+3)Celsius to Farhenheit
+4)Climb Staircase
+5)Find Factorial
+6)Greatest among three
+7)Isomorphic
+8)Profit Share
+9)vowels
+10)Simple Intrest
+11)water
