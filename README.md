@@ -9,3 +9,9 @@
 9)Simple Intrest
 10)vowels
 11)water
+12)mirror image
+13)1.4 pattern
+14)factorial
+15)perfect factor
+16)between two
+17)pascal
