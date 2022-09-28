@@ -15,3 +15,6 @@
 15)perfect factor
 16)between two
 17)pascal
+18)Positive and Negative
+19)Upper and Lower
+20)M and Nth
