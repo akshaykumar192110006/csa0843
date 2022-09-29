@@ -22,9 +22,9 @@
 22)Online Retailer
 23)BMI
 24)Senior Citizon
-25)sum Square odd even
+25)Stock
 26)Skip
-27)Pattern 
+27)sale book cost
 28)caliculator
 29)matrix
 30)palindroma
@@ -33,3 +33,5 @@
 33)Merge
 34)Vowels
 35)mirror image
+36) sum square of odd even
+37)pattern
