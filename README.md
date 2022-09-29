@@ -21,3 +21,11 @@
 21)video
 22)Online Retailer
 23)BMI
+24)Senior Citizon
+25)sum Square odd even
+26)Skip
+27)Pattern 
+28)caliculator
+29)matrix
+30)palindroma
+31)leap year
