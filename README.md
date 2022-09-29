@@ -7,9 +7,9 @@
 7)Isomorphic
 8)Profit Share
 9)Simple Intrest
-10)vowels
+10)Fibonocci
 11)water
-12)mirror image
+12)no of ways
 13)1.4 pattern
 14)factorial
 15)perfect factor
@@ -31,3 +31,5 @@
 31)leap year
 32)Combination
 33)Merge
+34)Vowels
+35)mirror image
