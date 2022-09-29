@@ -29,3 +29,5 @@
 29)matrix
 30)palindroma
 31)leap year
+32)Combination
+33)Merge
