@@ -32,6 +32,14 @@
 32)Combination
 33)Merge
 34)Vowels
-35)mirror image
-36) sum square of odd even
-37)pattern
+35)Mirror image
+36)Sum square of odd even
+37)Pattern
+38)Reverse
+39)Square and cubic
+40)Staff user
+41)0.1 pattern
+42)Vowel and constant
+43)Vowel
+44)List add
+45)Ascending Decending
