@@ -44,3 +44,4 @@
 44)List add
 45)Ascending Decending
 46)Composite btwm a and b
+47)Frequency
